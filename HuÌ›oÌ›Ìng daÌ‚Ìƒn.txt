@@ -1,0 +1,1 @@
+mở file model/DbHelper.php và chỉnh sửa lại thông tin cho phù hợp với cơ sở dữ liệu (nếu cần)
